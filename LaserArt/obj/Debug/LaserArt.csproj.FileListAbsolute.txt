@@ -509,3 +509,4 @@ D:\Projects\CarShop\LaserArt\bin\Microsoft.AI.Web.xml
 D:\Projects\CarShop\LaserArt\obj\Debug\LaserArt.csprojResolveAssemblyReference.cache
 D:\Projects\CarShop\LaserArt\obj\Debug\LaserArt.dll
 D:\Projects\CarShop\LaserArt\obj\Debug\LaserArt.pdb
+D:\Projects\CarShop\LaserArt\obj\Debug\LaserArt.csproj.CoreCompileInputs.cache

@@ -11,6 +11,7 @@ namespace LaserArt.Controllers
     {
         public AdminController()
         {
+            ViewBag.Sales = Models.Sales.GetSalesById(null);
             ViewBag.Categories = LaserArt.Models.Category.GetCategories(null);
         }
         // GET: Admin
